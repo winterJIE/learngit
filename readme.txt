@@ -13,5 +13,7 @@ cat readme.text3
 
 add a dev baranch
 
-creating a new branch is quick AND simple
+ 
+ 
 creating a new branch is quick and simple
+ 
