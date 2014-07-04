@@ -1,5 +1,5 @@
 Git is a version control system
-Git is free software
+Git is is a free software
 
 Git is a distributed version control system
 Git is free software
@@ -18,3 +18,4 @@ add a dev baranch
 creating a new branch is quick and simple
  
 creating a new branch "dev"
+
